@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right top, #777777, #7e8992, #799ea3, #85b29e, #b1c08f) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 18px;
+}
+
+section{
+    margin: 25px auto 25px auto;
+}
+
+.img-thumbnail{
+    max-width: 200px;
+    margin-right: 15px;
+}
+
+.navbar-brand{
+    margin-left: 32px
+}
+
+a{
+    color: #999
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+#foot1{
+    background-color: #4aaaa5;
+    min-height: 10px;
+}
+
+#foot2{
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    padding-top: 39px;
+    height: 100%;
+}
