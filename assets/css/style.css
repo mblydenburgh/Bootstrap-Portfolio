@@ -5,10 +5,21 @@ body{
     -o-background-size: cover;
     background-size: cover;
     font-size: 18px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 section{
     margin: 25px auto 25px auto;
+
+}
+
+.jumbotron{
+    background-color: #eee;
+}
+
+.jumbotron h1{
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 .img-thumbnail{
@@ -17,6 +28,7 @@ section{
 }
 
 .navbar{
+    font-family: 'Georgia', Times, Times New Roman, serif;
     padding: 0;
 }
 
