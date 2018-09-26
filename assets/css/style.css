@@ -16,8 +16,19 @@ section{
     margin-right: 15px;
 }
 
+.navbar{
+    padding: 0;
+}
+
 .navbar-brand{
-    margin-left: 32px
+    margin-left: 32px;
+    background-color: #4aaaa5;
+    padding: 20px 30px;
+}
+
+#nav-name{
+    color: white;
+    margin-left: 0;
 }
 
 a{
